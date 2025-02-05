@@ -18,7 +18,7 @@ A lightweight swarm of specialized agents that automatically tag files based on 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/auto-tagger-swarm.git
+git clone https://github.com/peytontolbert/auto-tagger-swarm.git
 cd auto-tagger-swarm
 ```
 
